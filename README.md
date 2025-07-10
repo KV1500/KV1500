@@ -25,7 +25,15 @@
 
 ---
 
-## 💼 Internship Experience:
+## 💼Experience:
+
+🚀Full-Stack Developer @ Empire Global Ltd
+Currently working as a Full-Stack Developer at a Hong Kong-based firm, Empire Global Ltd. I contribute to building enterprise-grade applications using Flutter, REST APIs, and scalable cloud backend services. My work includes:
+✔️ Developing and maintaining an Order Management System (OMS) with real-time tracking and user management.
+✔️ Designing and deploying a Business Card Development Platform using Azure services for hosting, storage, and function-based automation.
+✔️ Integrating Apple iOS features and implementing security checks and certificate validations.
+✔️ Handling both frontend and backend tasks, with hands-on experience in cloud deployment, state management, and CI/CD pipelines.
+
 ### 🌐 **Cloud Solutions & Data Analyst Intern** @ KasNet Technologies *(Jan 2025 - Feb 2025)*  
 ✔️ Built a **Sales Analytics Platform** using **Power BI** to generate business insights.  
 ✔️ Optimized **Azure SQL Database** queries for large-scale data processing.  
